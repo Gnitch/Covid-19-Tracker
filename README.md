@@ -1,4 +1,4 @@
 # Covid-19 Tracker
-## This web app keep's a live track of covid-19 cases,recovered and deaths
+## React based web app to which shows of covid-19 cases and deaths per country
 ## Live Preview [here](https://gnitch.github.io/Covid-19-Tracker/)
 ![](ss.png)
